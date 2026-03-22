@@ -3,8 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=0e75b6&center=true&vCenter=true&width=500&lines=Passionate+MERN+Stack+Developer;Computer+Student+from+Bangladesh;Loves+Interactive+Web+Designs" />
 </p>
 
-
 <h3 align="center"> Web Design Expert | Modern & Responsive Website Developer | </h3>
+
+<p align="center">
+  <!-- 🔥 Live Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=sumantodeveloper&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sumantodeveloper" />
+</p>
+
+
+
 
 
 ---
