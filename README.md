@@ -1,41 +1,104 @@
 <h1 align="center">Hi , I'm Sumanto Shorma</h1>
-<h3 align="center">A passionate MERN Stack Developer & Computer Student from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumantodeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sumantodeveloper" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@xyshimanto_og" target="blank"><img src="https://img.shields.io/twitter/follow/@xyshimanto_og?logo=twitter&style=for-the-badge" alt="@xyshimanto_og" /></a> </p>
-
-- My Project Here [interactive web projects -Bootstrap-Tinyone_Project](https://sumantodeveloper.github.io/Bootstrap-Tinyone_Project/)
-
-- 🌱 I’m currently learning **Html,CSS,Javascript,Bootstrap etc.**
-
-- My Project Here [interactive web projects -PSD-to-HTML](https://sumantodeveloper.github.io/Bootstrap_class5_PSD-to-HTML/)
-
-- My Project Here [interactive web projects](https://sumantodeveloper.github.io/Signup-page/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/sumantodeveloper?tab=repositories](https://github.com/sumantodeveloper?tab=repositories)
-
-- 📫 How to reach me **devsumantoshorma@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/sumantodeveloper/](https://github.com/sumantodeveloper/)
-
-- ⚡ Fun fact **I love making animated, interactive web designs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@xyshimanto_og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@xyshimanto_og" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumanto-shorma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanto-shorma" height="30" width="40" /></a>
-<a href="https://instagram.com/devsumantoshorma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devsumantoshorma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=0e75b6&center=true&vCenter=true&width=500&lines=Passionate+MERN+Stack+Developer;Computer+Student+from+Bangladesh;Loves+Interactive+Web+Designs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumantodeveloper&show_icons=true&locale=en&layout=compact" alt="sumantodeveloper" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumantodeveloper&show_icons=true&locale=en" alt="sumantodeveloper" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumantodeveloper&" alt="sumantodeveloper" /></p>
+<h3 align="center"> Web Design Expert | Modern & Responsive Website Developer | </h3>
 
 
+---
 
+<h2 align="center">🔥 Stay Connected on Twitter</h2>
+
+<p align="center">
+
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/xyshimanto_og" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/xyshimanto_og?logo=twitter&style=for-the-badge&color=1DA1F2" alt="xyshimanto_og" />
+  </a>
+</p>
+
+<p align="center">
+  
+</p>
+
+---
+
+---
+
+### 👨‍💻 About Me
+- 🌱 Currently learning **Html, CSS, Javascript, Bootstrap, MERN Stack**  
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/sumantodeveloper?tab=repositories)  
+- 📫 Reach me at **devsumantoshorma@gmail.com**  
+- ⚡ Fun fact: **I love making animated, interactive web designs**
+
+---
+
+### 📂 Featured Projects
+- [Bootstrap Tinyone Project](https://sumantodeveloper.github.io/Bootstrap-Tinyone_Project/)  
+- [PSD to HTML Project](https://sumantodeveloper.github.io/Bootstrap_class5_PSD-to-HTML/)  
+- [Signup Page](https://sumantodeveloper.github.io/Signup-page/)
+
+----
+🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.tiktok.com/@devsumantoshorma" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://www.facebook.com/share/1bFMNQM831/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumanto-shorma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sumantodeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/devsumantoshorma" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+
+---
+
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumantodeveloper&show_icons=true&locale=en&layout=compact&theme=radical" alt="sumantodeveloper" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumantodeveloper&show_icons=true&locale=en&theme=radical" alt="sumantodeveloper" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumantodeveloper&theme=radical" alt="sumantodeveloper" />
+</p>
+
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumantodeveloper&theme=react-dark" />
+</p>
+
+---
