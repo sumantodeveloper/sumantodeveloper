@@ -47,7 +47,10 @@ Currently working on <b>C++ Practice Projects and Web Development Projects</b>
 </p>
 
 <p align="center">
-<a href="mailto:devsumantoshorma@gmail.com">devsumantoshorma@gmail.com</a>
+Contact:
+<a href="mailto:devsumantoshorma@gmail.com">
+<b>devsumantoshorma@gmail.com</b>
+</a>
 </p>
 
 ---
@@ -56,11 +59,11 @@ Currently working on <b>C++ Practice Projects and Web Development Projects</b>
 
 <p align="center">
 <a href="https://sumantodeveloper.github.io/Bootstrap-Tinyone_Project/">Bootstrap Tinyone Project</a>
-&nbsp; | &nbsp;
+&nbsp;&nbsp; | &nbsp;&nbsp;
 <a href="https://sumantodeveloper.github.io/Bootstrap_class5_PSD-to-HTML/">PSD to HTML Project</a>
-&nbsp; | &nbsp;
+&nbsp;&nbsp; | &nbsp;&nbsp;
 <a href="https://sumantodeveloper.github.io/Signup-page/">Signup Page</a>
-&nbsp; | &nbsp;
+&nbsp;&nbsp; | &nbsp;&nbsp;
 <a href="https://github.com/sumantodeveloper?tab=repositories">All Repositories</a>
 </p>
 
@@ -69,33 +72,11 @@ Currently working on <b>C++ Practice Projects and Web Development Projects</b>
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-<a href="https://twitter.com/xyshimanto_og" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="38" height="38" alt="Twitter"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/sumanto-shorma" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38" height="38" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/SUMANTOSHORMA" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="38" height="38" alt="Facebook"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.youtube.com/@devsumanto" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="38" height="38" alt="YouTube"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.tiktok.com/@devsumantoshorma" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" width="38" height="38" alt="TikTok"/>
-</a>
+  <a href="https://twitter.com/xyshimanto_og" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" alt="Twitter"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sumanto-shorma" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/SUMANTOSHORMA" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" alt="Facebook"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@devsumanto" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" height="30" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@devsumantoshorma" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="30" height="30" alt="TikTok"/></a>
 </p>
 
 ---
@@ -103,33 +84,13 @@ Currently working on <b>C++ Practice Projects and Web Development Projects</b>
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
-
-&nbsp;
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
